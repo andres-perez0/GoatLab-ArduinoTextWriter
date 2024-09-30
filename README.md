@@ -45,5 +45,6 @@ ser = serial.Serial(port='COM10',baudrate=115200)
 
 And bam! You are done!
 
-### Additional Videos
+### Additional Resources
+- [MMC56x3 Documentation](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-mmc5603-triple-axis-magnetometer.pdf)
 - [Python serial port communication using PySerial](https://www.youtube.com/watch?v=Kr1RyK6WENQ&)
