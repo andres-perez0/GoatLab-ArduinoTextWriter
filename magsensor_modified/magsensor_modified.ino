@@ -1,11 +1,10 @@
-#include <Adafruit_MMC56x3.h>
-
 /*
 This is slightly modified example code from the Adafruit_MMC56x3 repository.
 Linked here: https://github.com/adafruit/Adafruit_MMC56x3/tree/main
 File Path on Repo: Adafruit_MMC56x3/examples/magsensor/magsensor.ino
 */
 
+#include <Adafruit_MMC56x3.h>
 
 /* Assign a unique ID to this sensor at the same time */
 Adafruit_MMC5603 mmc = Adafruit_MMC5603(12345);
